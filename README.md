@@ -1,4 +1,4 @@
-# e-portfolio
+# Data Scienctist
 danty.github.io/e-portfolio
 
 ### Education
