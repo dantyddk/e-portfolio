@@ -21,7 +21,7 @@ ion/644CVRMTF3KD
 - IBM - Data Engineering | https://coursera.org/verify/profession
 al-cert/DEN88WMC4K4F
 
-**IC3 - Digital L iteracy Certification**
+**IC3 - Digital Literacy Certification**
 
 **SQL**
 
