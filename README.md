@@ -16,10 +16,8 @@
 ## Certification
 **COURSEA | DATA ENGINEER**
 - Sep. 2023 - Nov. 2023
-- Data Engineering Foundation | https://coursera.org/verify/specializat
-ion/644CVRMTF3KD
-- IBM - Data Engineering | https://coursera.org/verify/profession
-al-cert/DEN88WMC4K4F
+- Data Engineering Foundation | https://coursera.org/verify/specialization/644CVRMTF3KD
+- IBM - Data Engineering | https://coursera.org/verify/professional-cert/DEN88WMC4K4F
 
 **IC3 - Digital Literacy Certification**
 
