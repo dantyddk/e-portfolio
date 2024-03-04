@@ -21,7 +21,9 @@
 - Reading & Speaking: 7.0
 
 **IC3 - Digital Literacy Certification**
+
 **SQL**
+
 **PYTHON**
 
 ## Skills
