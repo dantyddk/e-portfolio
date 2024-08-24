@@ -11,8 +11,7 @@
 - Distinction
 
 ## Certification
-**COURSEA | DATA ENGINEER**
-- Sep. 2023 - Nov. 2023
+**COURSEA | DATA ENGINEER (_Sep. 2023 - Nov. 2023_)**
 - Data Engineering Foundation | https://coursera.org/verify/specialization/644CVRMTF3KD
 - IBM - Data Engineering | https://coursera.org/verify/professional-cert/DEN88WMC4K4F
 
