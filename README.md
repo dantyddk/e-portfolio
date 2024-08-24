@@ -38,16 +38,24 @@
 
 ## Work Experience
 **SENIOR BUSINESS ANALYST @ BE GROUP JSC | BE | MARKETPLACE - DEMAND (_Feb. 2023 - Present_)**
+
+- Overseeing all aspects of the BeBike service, including customer segmentation, promotional strategy development, and UX/UI enhancements to better align with customer needs, formulating and executing business plans to drive service growth and development.
+- Bringing in 60% of the company's revenue
+- Being experienced significant growth, with +187% GMV and +154% trips
+- Reaching over 10 million beBike users on the platform.
+- Building a model to detect user personas with a coverage level of 70% of all users.
+- Implement multiple strategies from multiple perspectives, such as seasonal, section, district, etc.
 - Developed an RFD model to classify customers based on their retention levels
 - Utilized data to tailor appropriate promotional strategies for different customer segments, aiming to enhance customer loyalty
 - Collaborated with the Supply team to create a balance between demand and supply using surge models
 - Analyzed customer behavior and adapted intervention methods accordingly for better alignment
 
 **SENIOR ASSOCIATE @ SEA GROUP LTD | SHOPEE VIETNAM | PROJECT MANAGEMENT OPERATOR (_June. 2022 - Feb. 2023_)**
+- Owned the end-to-end project management of Flash sale campaigns, including budgeting, forecasting, and cost-benefit analysis.
+- Led the planning and execution of large-scale sales events (10.10, 11.11)
+- Developed and implemented a robust reporting framework to monitor performance and drive data-driven decisions.
+- Optimized operations by analyzing data from over 11,000 sellers, identifying trends and opportunities for improvement.
 - Constructed predictive models for consumer behavior based on seasonal, monthly, and weekly patterns
-- Based on insights from data and the company's resources create flash sale plans for BAU (business as usual) and Sale Day (10.10, 11.11, etc)
-- Build data tracker for sub-team, Business Project
-- Based on the data and results of market analysis propose development projects for Shopee
 - Analyzing and processing data from over 11,000 sellers on Shopee
 
 **ASSOCIATE @ SEA GROUP LTD | SHOPEE VIETNAM | PROJECT MANAGEMENT OPERATOR (_Sep. 2020 - May. 2022_)**
